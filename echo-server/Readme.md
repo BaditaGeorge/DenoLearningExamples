@@ -1,0 +1,1 @@
+You can run `main-serve.ts` by using `deno run --allow-net .\main-serve.ts`. By suing `allow-net` flag, you will have the server start up directly. If this flag is not used, server will request fora additional permissions to access the network.

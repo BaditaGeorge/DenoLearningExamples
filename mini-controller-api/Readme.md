@@ -1,0 +1,1 @@
+Can be run with `deno run --allow-net main.ts`
